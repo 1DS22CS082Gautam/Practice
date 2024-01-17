@@ -3,4 +3,5 @@
 int main()
 {
   int a=5,b=10;
-q}
+  int s=a+b;
+}
